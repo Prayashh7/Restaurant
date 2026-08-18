@@ -1,0 +1,7 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body { font-family: 'Inter', sans-serif; background: #0d0b09; color: #f0e6d0; -webkit-font-smoothing: antialiased; }
+button, input, textarea, select { font-family: inherit; }
+button { cursor: pointer; }
+a { text-decoration: none; color: inherit; }
+img { max-width: 100%; display: block; }
